@@ -13,6 +13,7 @@ I have just completed a software development course at Makers Academy, where I w
 Project Title| Description | Tech Stacks
 | --- | --- | --- |
 | [H-Appy](https://github.com/peter-james-allen/h-appy-client) | An activity menu mobile app based around a [dopamine menu](https://www.youtube.com/watch?v=-6WCkTwW6xg), with an API server to provide suggestions. Built in 10 days as the final project for Makers. | React Native |
+|[CaptivePortal](https://github.com/jgumoes/CaptivePortal) | A Captive Portal for to allow a layperson to connect an ESP8266 microcontroller to their local wifi network. The final product will act as a library, allowing any ESP project to have an easy way to enter or change wifi credentials, device name, etc. | Platformio (C++), HTML, CSS, Vanilla JavaScript |
 
 ## Tech Stack
 
