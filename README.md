@@ -20,12 +20,18 @@ JavaScript (Node.js, jQuery, Jasmine), Ruby (Rails, Sinatra, RSpec, Capybara), P
 
 ## Skills
 
+Keen Attention to Detail
 Todo: (Tell me about the time when attention to detail helped stuff) how attention to detail resulted in putting features in the current consumption project, that helped find some software bugs that caused excessive consumption
 
-Todo: (Tell me about the time when problem solving helped stuff)
+Excellent Problem Solver
+Todo: (Tell me about the time when problem solving helped stuff) I encountered
 
+Fast Learner maybe talk about the data storage for the H-Appy app
+
+Motivated Self-Educator
 Todo: (Tell me about learning) probably talk about captive portal
-
 Todo: (Tell me about independant working)
+
+
 
 My attention to detail has helped me to rapidly debug 
